@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ritvik Shrivastava on Ritvik Shrivastava</title>
+    <link>https://ritvikshrivastava.github.io/</link>
+    <description>Recent content in Ritvik Shrivastava on Ritvik Shrivastava</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Your Name</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0530</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Multi-Class Instance-Incremental Framework for Classification in Fully Dynamic Graphs</title>
+      <link>https://ritvikshrivastava.github.io/publication/ijcse/</link>
+      <pubDate>Sat, 25 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ritvikshrivastava.github.io/publication/ijcse/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Big Data Analysis Framework Using Apache Spark and Deep Learning</title>
+      <link>https://ritvikshrivastava.github.io/publication/bachelor_thesis/</link>
+      <pubDate>Sat, 18 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ritvikshrivastava.github.io/publication/bachelor_thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EmTaggeR: A Word Embedding Based Novel Method for Hashtag Recommendation on Twitter</title>
+      <link>https://ritvikshrivastava.github.io/publication/acumen/</link>
+      <pubDate>Sat, 18 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ritvikshrivastava.github.io/publication/acumen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Twitter Stance Detection - A Subjectivity and Sentiment Polarity Inspired Two-Phase Approach</title>
+      <link>https://ritvikshrivastava.github.io/publication/stance_sentire/</link>
+      <pubDate>Sat, 18 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ritvikshrivastava.github.io/publication/stance_sentire/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>IIT Delhi</title>
+      <link>https://ritvikshrivastava.github.io/talk/example-talk/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0530</pubDate>
+      
+      <guid>https://ritvikshrivastava.github.io/talk/example-talk/</guid>
+      <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Paraphrase and Semantic Similarity Detection System for User Generated Short-Text Content on Microblogs</title>
+      <link>https://ritvikshrivastava.github.io/publication/paraphrase-coling/</link>
+      <pubDate>Wed, 30 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ritvikshrivastava.github.io/publication/paraphrase-coling/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hashtag Prediction</title>
+      <link>https://ritvikshrivastava.github.io/project/hashtag/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ritvikshrivastava.github.io/project/hashtag/</guid>
+      <description>&lt;p&gt;I worked on this project during my internship at IBM Research.&lt;/p&gt;
+
+&lt;p&gt;We used 10% of a single day&amp;rsquo;s raw Twitter data in order to perform our experimentation. The supervised model in use makes use of the word embeddings for individual words and a weighted score to obtain the embeddings at a sentence level. Using a combination of the aforementioned sets, we obtained a weighted embedding for each hastag, which was in-turn used to predict the suitablity of a certain hashtag for untagged tweet.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Paraphrase Detection</title>
+      <link>https://ritvikshrivastava.github.io/project/paraphrase/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ritvikshrivastava.github.io/project/paraphrase/</guid>
+      <description>&lt;p&gt;During my internship at IIT Delhi, I was thoroughly involved in the fields of Natural Language Processing and Social Network Analysis. The first problem that I studied under the guidance of my mentors was that of Paraphrase and Semantic Similarity Detection.&lt;/p&gt;
+
+&lt;p&gt;The engineered system involved a machine learning based model using novel hand-crafted features. SVM(Support Vector Machine) was used as the preferred ML tool.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Stance Detection in Twitter</title>
+      <link>https://ritvikshrivastava.github.io/project/stance/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ritvikshrivastava.github.io/project/stance/</guid>
+      <description>&lt;p&gt;I studied the problem of Stance Detection in Twitter as part of my internships at IIT Delhi and IBM Research. The approaches undertaken at both instances were quite different from each other.&lt;/p&gt;
+
+&lt;p&gt;At IIT Delhi, I was working on using machine learning to solve computational linguistics problems. For this purpose, I designed a two-phase subjectivity and sentiment analysis based model. In the first phase, the model classified subjective tweets vs objective tweets (favor,against vs neutral). In the second phase the distinction was made between favor and against stances of the tweets using a modified take on sentiment analysis. The machine learning tool used for classification throughout this task was SVM (Support Vector Machine). Using this model, a F-Score of 74.44 was obtained, beating the state-of-the-art by over 5%. The resulting paper was published in the International Conference on Data Mining (ICDM) 2017 workshop SENTIRE.&lt;/p&gt;
+
+&lt;p&gt;As an intern at IBM Research, I worked on using deep learing instead of traditional ML to solve prominent NLP problems. The first challenge that I undertook was to improve my existing work on stance detection using deep learning. For this, I used Bi-LSTMs in conjunction with global attention channels over two phases, and obtained a model that generalised well over different categories of data and outperformed the existing deep learning literature in the area. A research article on this model is currently under submission at ECIR 2018 (European Conference on Information Retrieval).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

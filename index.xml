@@ -11,6 +11,26 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>A Semantic Continuity Based Analysis of Topic Lifecycle on Social Networks</title>
+      <link>https://ritvikshrivastava.github.io/publication/topiclifecycle_complexnetworks/</link>
+      <pubDate>Thu, 30 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ritvikshrivastava.github.io/publication/topiclifecycle_complexnetworks/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Assessing the Effects of Social Familiarity and Stance Similarity in Interaction Dynamics</title>
+      <link>https://ritvikshrivastava.github.io/publication/homophily_complexnetworks/</link>
+      <pubDate>Thu, 30 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ritvikshrivastava.github.io/publication/homophily_complexnetworks/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Multi-Class Instance-Incremental Framework for Classification in Fully Dynamic Graphs</title>
       <link>https://ritvikshrivastava.github.io/publication/ijcse/</link>
       <pubDate>Sat, 25 Nov 2017 00:00:00 +0000</pubDate>

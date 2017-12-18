@@ -7,8 +7,52 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Ritvik Shrivastava</copyright>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Apr 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="/project/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Analyzing Homophily in Social Networks</title>
+      <link>https://ritvikshrivastava.github.io/project/homophily/</link>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ritvikshrivastava.github.io/project/homophily/</guid>
+      <description>&lt;p&gt;This project was conducted during my internship at IBM Research - India.&lt;/p&gt;
+
+&lt;p&gt;Homophily is the tendency of humans to connect with people who are similar to them.&lt;/p&gt;
+
+&lt;p&gt;In this project:
+We investigated the relationship between familiarity of users and textual similarity of their social media content, at the user, peer-group and community granularities, leading to a manuscript under review at ICWSM 2018.
+In an earlier experiment, we studied the effect on politeness and agreement between two users with respect to their stance towards a plethora of topics. The article with respect to this study has been accepted at the COMPLEX NETWORKS 2017 conference.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning and Apache Spark based Big Data Classifier</title>
+      <link>https://ritvikshrivastava.github.io/project/bigdataclassifier/</link>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ritvikshrivastava.github.io/project/bigdataclassifier/</guid>
+      <description>&lt;p&gt;This was my Bachelor&amp;rsquo;s Thesis project.&lt;/p&gt;
+
+&lt;p&gt;In this project, we propose a three-stage novel framework that combines the distributive computational abilities of Apache Spark and the advanced machine learning architecture of a deep multi-layer perceptron (MLP), using the underlying concept of Cascade Learning. We conduct empirical analysis of our framework on two real world datasets (from Kaggle and UCI Repo). The results are encouraging and corroborate our proposed framework, in turn proving that it is an improvement over traditional big data analysis methods that use either Spark or Deep learning as individual elements.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Topic Lifecycles in Social Networks</title>
+      <link>https://ritvikshrivastava.github.io/project/topiclifecycle/</link>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ritvikshrivastava.github.io/project/topiclifecycle/</guid>
+      <description>&lt;p&gt;This project was conducted during my internship at IBM Research - India.&lt;/p&gt;
+
+&lt;p&gt;Information tends to dissipate or diffuse over time in a social network. While it is possible that a topic dies over time and is replaced by another unrelated topic, it is also possible that the topic slowly morphs into a different topic visually but having the same semantic meaning.&lt;/p&gt;
+
+&lt;p&gt;Over the course of 4 months and 2 papers (Complex Networks&amp;rsquo;17 and ECIR&amp;rsquo;18), we have shown that topics do morph into a semantically similar form, and hence the topics life keeps getting extended for a much longer time than was earlier perceived.&lt;/p&gt;
+
+&lt;p&gt;We also show how online communities are a key contributor to this process of morphing topics.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Hashtag Prediction</title>
@@ -18,7 +62,8 @@
       <guid>https://ritvikshrivastava.github.io/project/hashtag/</guid>
       <description>&lt;p&gt;I worked on this project during my internship at IBM Research.&lt;/p&gt;
 
-&lt;p&gt;We used 10% of a single day&amp;rsquo;s raw Twitter data in order to perform our experimentation. The supervised model in use makes use of the word embeddings for individual words and a weighted score to obtain the embeddings at a sentence level. Using a combination of the aforementioned sets, we obtained a weighted embedding for each hastag, which was in-turn used to predict the suitablity of a certain hashtag for untagged tweet.&lt;/p&gt;
+&lt;p&gt;We used 10% of a single day&amp;rsquo;s raw Twitter data in order to perform our experimentation. The supervised model in use makes use of the word embeddings for individual words and a weighted score to obtain the embeddings at a sentence level. Using a combination of the aforementioned sets, we obtained a weighted embedding for each hastag, which was in-turn used to predict the suitablity of a certain hashtag for an untagged tweet.
+An article on this project was accepted at ICDM 2017 workshop - ACUMEN.&lt;/p&gt;
 </description>
     </item>
     
@@ -44,7 +89,7 @@
 
 &lt;p&gt;At IIT Delhi, I was working on using machine learning to solve computational linguistics problems. For this purpose, I designed a two-phase subjectivity and sentiment analysis based model. In the first phase, the model classified subjective tweets vs objective tweets (favor,against vs neutral). In the second phase the distinction was made between favor and against stances of the tweets using a modified take on sentiment analysis. The machine learning tool used for classification throughout this task was SVM (Support Vector Machine). Using this model, a F-Score of 74.44 was obtained, beating the state-of-the-art by over 5%. The resulting paper was published in the International Conference on Data Mining (ICDM) 2017 workshop SENTIRE.&lt;/p&gt;
 
-&lt;p&gt;As an intern at IBM Research, I worked on using deep learing instead of traditional ML to solve prominent NLP problems. The first challenge that I undertook was to improve my existing work on stance detection using deep learning. For this, I used Bi-LSTMs in conjunction with global attention channels over two phases, and obtained a model that generalised well over different categories of data and outperformed the existing deep learning literature in the area. A research article on this model is currently under submission at ECIR 2018 (European Conference on Information Retrieval).&lt;/p&gt;
+&lt;p&gt;As an intern at IBM Research, I worked on using deep learing instead of traditional ML to solve prominent NLP problems. The first challenge that I undertook was to improve my existing work on stance detection using deep learning. For this, I used Bi-LSTMs in conjunction with global attention channels over two phases, and obtained a model that generalised well over different categories of data and outperformed the existing deep learning literature in the area. A research article on this model has been accepted at ECIR 2018 (European Conference on Information Retrieval).&lt;/p&gt;
 </description>
     </item>
     

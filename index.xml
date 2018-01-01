@@ -13,7 +13,7 @@
     <item>
       <title>Topic Lifecycle on Social Networks: Analyzing the Effects of Semantic Continuity and Social Communities</title>
       <link>https://ritvikshrivastava.github.io/publication/topiclifecycle_ecir/</link>
-      <pubDate>Mon, 11 Dec 2017 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>https://ritvikshrivastava.github.io/publication/topiclifecycle_ecir/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
@@ -23,11 +23,20 @@
     <item>
       <title>Topical Stance Detection for Twitter: A Two-Phase LSTM Model Using Attention</title>
       <link>https://ritvikshrivastava.github.io/publication/stance_ecir/</link>
-      <pubDate>Mon, 11 Dec 2017 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>https://ritvikshrivastava.github.io/publication/stance_ecir/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Knowledge Discovery: Temporal Disaggregation in Social Interaction Data </title>
+      <link>https://ritvikshrivastava.github.io/publication/book-chapter/</link>
+      <pubDate>Mon, 18 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ritvikshrivastava.github.io/publication/book-chapter/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -164,20 +173,6 @@ An article on this project was accepted at ICDM 2017 workshop - ACUMEN.&lt;/p&gt
       <description>&lt;p&gt;During my internship at IIT Delhi, I was thoroughly involved in the fields of Natural Language Processing and Social Network Analysis. The first problem that I studied under the guidance of my mentors was that of Paraphrase and Semantic Similarity Detection.&lt;/p&gt;
 
 &lt;p&gt;The engineered system involved a machine learning based model using novel hand-crafted features. SVM(Support Vector Machine) was used as the preferred ML tool.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Stance Detection in Twitter</title>
-      <link>https://ritvikshrivastava.github.io/project/stance/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://ritvikshrivastava.github.io/project/stance/</guid>
-      <description>&lt;p&gt;I studied the problem of Stance Detection in Twitter as part of my internships at IIT Delhi and IBM Research. The approaches undertaken at both instances were quite different from each other.&lt;/p&gt;
-
-&lt;p&gt;At IIT Delhi, I was working on using machine learning to solve computational linguistics problems. For this purpose, I designed a two-phase subjectivity and sentiment analysis based model. In the first phase, the model classified subjective tweets vs objective tweets (favor,against vs neutral). In the second phase the distinction was made between favor and against stances of the tweets using a modified take on sentiment analysis. The machine learning tool used for classification throughout this task was SVM (Support Vector Machine). Using this model, a F-Score of 74.44 was obtained, beating the state-of-the-art by over 5%. The resulting paper was published in the International Conference on Data Mining (ICDM) 2017 workshop SENTIRE.&lt;/p&gt;
-
-&lt;p&gt;As an intern at IBM Research, I worked on using deep learing instead of traditional ML to solve prominent NLP problems. The first challenge that I undertook was to improve my existing work on stance detection using deep learning. For this, I used Bi-LSTMs in conjunction with global attention channels over two phases, and obtained a model that generalised well over different categories of data and outperformed the existing deep learning literature in the area. A research article on this model has been accepted at ECIR 2018 (European Conference on Information Retrieval).&lt;/p&gt;
 </description>
     </item>
     
